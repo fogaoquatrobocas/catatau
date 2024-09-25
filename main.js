@@ -23,4 +23,9 @@ let media = function(numero1,numero2,numero3){
 
 }
 
-console.log (media(10,2,3))
+console.log (media(10,7,3))
+
+
+let nome =prompt('nome?');
+document.write(nome);
+parseInt(prompt('nome?'))
