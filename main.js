@@ -14,7 +14,7 @@ function AreaDoQuadrado (lado){
     
 }
 
-console.log (AreaDoQuadrado(88));
+console.log (AreaDoQuadrado(8888));
 
 
 
