@@ -13,4 +13,8 @@ function AreaDoQuadrado (lado){
 
 console.log (AreaDoQuadrado(6));
 
+let media = function(numero1,numero2,numero3){
+return 
+}
+console.log()
 
