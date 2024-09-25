@@ -4,13 +4,13 @@
     
 }
 
-console.log(soma(5,2));
+console.log (soma(5,2));
 
-function AreaDoQuadrado (num1){
-    return num1*num1;
+function AreaDoQuadrado (lado){
+    return lado*lado;
     
 }
 
-console.log(AreaDoQuadrado(5));
+console.log (AreaDoQuadrado(6));
 
 
