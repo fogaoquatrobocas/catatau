@@ -28,4 +28,4 @@ console.log (media(10,7,3))
 
 let nome =prompt('nome?');
 document.write(nome);
-=parseInt(prompt('nome?'))
+parseInt(prompt('nome?'));
