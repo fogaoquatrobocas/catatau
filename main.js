@@ -23,5 +23,5 @@ let media = function(numero1,numero2,numero3){
 
 }
 
-console.log (media(1,2,3))
+console.log (media(10,2,3))
 
