@@ -24,10 +24,3 @@ let media = function(numero1,numero2,numero3){
 }
 
 console.log (media(10,2,3))
-
-function Divisao (numeroo1,numeroo2){
-    return (numeroo1/numeroo2);
-
-}
-
-console.log (Divisao(0,0))
