@@ -38,7 +38,13 @@
 
 let estados=['PR','SC','RS','SP','RJ','PB','PE','PI','AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','RN','RO','RR','SE','TO'];
 
-estados.length
-estados[1]
-estados[1]='roberta'
+let i=0;
+
+while(i<5){
+console.log(i)
+i=i+1;
+
+
+}
+
 
