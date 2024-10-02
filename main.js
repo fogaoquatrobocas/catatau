@@ -52,7 +52,7 @@
 
 // }
 
-let idade=101;
+let idade=10;
 if(idade>17){
 console.log('Pode dirigir :)');
 }
