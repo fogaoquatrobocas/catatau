@@ -36,4 +36,4 @@
 //  document.write(media(num1,num2,num3));
 
 
-let estados=[PR,SC,RS,SP,RJ,PB,PE,PI,AC,AL,AP,AM,BA,CE,DF,ES,GO,MA,MT,MS,MG,PA,RN,RO,RR,SE,TO];
+let estados=['PR','SC','RS','SP','RJ','PB','PE','PI','AC','AL','AP','AM','BA','CE','DF','ES','GO','MA','MT','MS','MG','PA','RN','RO','RR','SE','TO'];
