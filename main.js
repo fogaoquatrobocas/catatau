@@ -40,13 +40,15 @@ let estados=['PR','SC','RS','SP','RJ','PB','PE','PI','AC','AL','AP','AM','BA','C
 
 let i=0;
 
-while(i<5){
+while(i<estados.length){
 console.log(i)
 console.log(estados[i]);
-
 i=i+1;
-
-
 }
 
+for(let i=0;i<estados.length;  ){
+console.log(i);
+console.log(estados[1]);
+
+}
 
